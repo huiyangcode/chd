@@ -1,1 +1,2 @@
-# chd
+# README
+  A gender-specific CHD risk assessment model and a risk score card were developed in this study, and the specific modeling code has been uploaded. The data sets generated during and analysed during the current study are not publicly available for privacy reasons, but are available from the corresponding author on reasonable request. To improve CHD personal lifestyle management, based on the scorecard, an online CHD risk assessment system has been established, which can be freely accessed at http://lin-group.cn/server/CHD/index.html.
